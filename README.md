@@ -1,7 +1,7 @@
 # Anforderungsspezifikation
-In einer Partnerarbeit wurden wir beauftragt eine Anforderungsspezifikation zur Fallstudie einer Bibliothek zu realisieren. Wir benutzten die BPMN-Notation. Zudem erhielten wir Zugang zu Signavio, mit welchem wir die Diagramme anfertigen konnten.
+In einer Partnerarbeit wurden wir beauftragt eine Anforderungsspezifikation zur Fallstudie einer Bibliothek zu realisieren. Wir benutzten die BPM-Notation. Zudem erhielten wir Zugang zu Signavio, mit welchem wir die Diagramme anfertigen konnten.
 
-Aus dem strategischen Prozessmodell erweiterten wir nur fünf der wichtigsten Prozesse mit dem operativen Prozessmodell.
+Aus der strategischen Ebene erweiterten wir nur fünf der wichtigsten Prozesse mit dem operativen Prozessmodell.
 
 # Angaben zur Bibliothek und den Prozessen
 
