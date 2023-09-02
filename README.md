@@ -1,9 +1,9 @@
-# Anforderungsspezifikation
-In einer Partnerarbeit wurden wir beauftragt eine Anforderungsspezifikation zur Fallstudie einer Bibliothek zu realisieren. Wir benutzten die BPM-Notation. Zudem erhielten wir Zugang zu Signavio, mit welchem wir die Diagramme anfertigen konnten.
-
+# Fallstudie Bibliothek
+In einer Partnerarbeit wurden wir beauftragt, aus den Anforderungsspezifikation einer Fallstudie eine Geschaeftsprozessmodelierung zu erstellen. Wir benutzten die BPM-Notation. Zudem erhielten wir Zugang zu Signavio, mit welchem wir die Diagramme anfertigten.
+ 
 Aus der strategischen Ebene erweiterten wir nur fünf der wichtigsten Prozesse mit dem operativen Prozessmodell.
 
-# Angaben zur Bibliothek und den Prozessen
+# Anforderungsspezifikation
 
 - Jeder Kunde hat nur eine Adresse.
 
